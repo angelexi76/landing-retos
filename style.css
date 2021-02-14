@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
+
+body{
+    background-color: rgb(16, 17, 17);
+    padding: 0%;
+    margin:2%;
+
+}
+
+
+.grip.container{
+grid-template-columns: auto auto auto auto;
+display: grid;
+grid-row: gap 10px;
+padding: 5px;
+    
+
+}
+
+h1 { 
+    background-color: #eaf9fa  ; 
+    Text-align:center;
+    border-radius: 20px;
+    padding: 20px;
+    font-size: 35p;
+}
+#input-search{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    text-indent: 10px;
+    position:relative;
+    border-radius: 10px;
+    margin: 0px;
+} 
+   h3{
+    background-color: #b6e2e6  ; 
+    Text-align:center;
+    border-radius: 20px;
+    padding: 3px;
+    font-size: 25px;
+    
+   }
